@@ -1,1 +1,3 @@
+# Distributed Alarmsystem
 In this repository you can find all the code I used to make a distributed alarmsystem using 3 Raspberry Pi's and 1 Arduino MEGA 2560 using MQTT.
+This Alarmsystem consists of 3 Raspberry Pi's because this was a requirement. We also used an Arduino MEGA 2560 with bluetooth module to connect to the Raspberry Pi. It could be armed and disarmed with an RFID-card or through a web interface. On of my first projects; don't expect too much...
